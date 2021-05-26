@@ -6,6 +6,8 @@ public class BranchingPractice {
         //added .gitignore with .idea, target folder and .iml file
         //shared project on github
         //reviewing on new branch
+        //first commit
+
 
     }
 
